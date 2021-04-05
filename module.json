@@ -16,6 +16,6 @@
 						}
 					],
 	"url": "https://www.patreon.com/CozyMaps",
-	"manifest": "https://github.com/CozyMaps/AllMaps/blob/main/module.json",
+	"manifest": "https://github.com/CozyMaps/CozyMaps/blob/main/module.json",
 	"download": "https://github.com/insquared/dragonfire-maps/archive/main.zip"
 		  }
