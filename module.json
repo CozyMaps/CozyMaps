@@ -10,7 +10,7 @@
     					{
       					"name": "cozymaps",
       					"label": "Cozy Maps",
-      					"path": "cozymaps.db",
+      					"path": "packs/cozymaps.db",
       					"entity": "Scene",
       					"module": "cozymaps"
 						}
