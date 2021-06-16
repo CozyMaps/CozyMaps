@@ -3,7 +3,7 @@
 			"title": "Cozy Maps",
 			"description": "This module provides you with maps created by Cozy Maps, from patreon. https://www.patreon.com/CozyMaps",
 			"author": "CozyMaps#1505",
-			"version": "0.0.4",
+			"version": "0.0.5",
 			"minimumCoreVersion": "0.7.5",
 			"compatibleCoreVersion": "0.7.9",
 			"packs": [
