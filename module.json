@@ -5,7 +5,7 @@
 			"author": "CozyMaps#1505",
 			"version": "0.0.6",
 			"minimumCoreVersion": "0.7.5",
-			"compatibleCoreVersion": "0.7.9",
+			"compatibleCoreVersion": "0.8.8",
 			"packs": [
     					{
       					"name": "cozymaps",
