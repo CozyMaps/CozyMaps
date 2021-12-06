@@ -6,8 +6,8 @@
   "authors": [],
   "url": "https://www.patreon.com/CozyMaps",
   "flags": {},
-  "version": "0.7",
-  "minimumCoreVersion": "0.7.5",
+  "version": "1.01",
+  "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
   "esmodules": [],
@@ -15,8 +15,8 @@
   "languages": [],
   "packs": [
     {
-      "name": "cozymaps",
-      "label": "Cozy Maps",
+      "name": "CozyMaps",
+      "label": "CozyMaps - module for patrons",
       "path": "packs/cozymaps.db",
       "entity": "Scene",
       "module": "cozymaps",
