@@ -2,13 +2,21 @@
   "name": "cozymaps",
   "title": "Cozy Maps",
   "description": "This module provides you with maps created by Cozy Maps, from patreon. https://www.patreon.com/CozyMaps",
-  "author": "CozyMaps#1505",
-  "authors": [],
+  "authors": [
+    {
+      "name": "CozyMaps#1505"
+    }
+  ],
   "url": "https://www.patreon.com/CozyMaps",
   "flags": {},
-  "version": "1.10",
-  "minimumCoreVersion": "9.221",
-  "compatibleCoreVersion": "9",
+  "version": "1.11",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10",
+    "maximum": "10"
+  },
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -18,7 +26,7 @@
       "name": "CozyMaps",
       "label": "CozyMaps - module for patrons",
       "path": "packs/cozymaps.db",
-      "entity": "Scene",
+      "type": "Scene",
       "module": "cozymaps",
       "private": false
     }
